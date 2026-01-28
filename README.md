@@ -23,7 +23,7 @@
 - [ ] Amazon SageMaker: 250 hours of t3.medium on Studio notebooks (2-Month Trial). Build and train ML models.
 
 ## 📡 Networking & Communication
-- [ ] Amazon SNS: 1 Million notifications (Always Free). Send emails or push notifications.
+- [x] Amazon SNS: 1 Million notifications (Always Free). Send emails or push notifications.
 - [ ] Amazon SQS: 1 Million message requests (Always Free). Decouple your app components with message queues.
 - [ ] Amazon SES: 62,000 outbound messages/month (Always Free). Professional email sending service.
 
