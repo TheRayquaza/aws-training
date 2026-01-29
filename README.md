@@ -12,7 +12,7 @@
 - [ ] Amazon EBS: 30 GB of SSD storage (12 Months). This is the "disk" you attach to your EC2 instances.
 
 ## 🗄️ Databases
-- [ ] Amazon DynamoDB: 25 GB of NoSQL storage (Always Free). Extremely fast and scales to infinity.
+- [x] Amazon DynamoDB: 25 GB of NoSQL storage (Always Free). Extremely fast and scales to infinity.
 - [ ] Amazon RDS: 750 hours/month of db.t3.micro (12 Months). Managed MySQL, PostgreSQL, or MariaDB.
 - [ ] Amazon ElastiCache: 750 hours/month of cache.t3.micro (12 Months). In-memory caching for speed.
 
